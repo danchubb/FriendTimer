@@ -1,0 +1,9 @@
+streamlit
+streamlit-aggrid
+streamlit-option-menu
+streamlit-lottie
+streamlit-ace
+streamlit-tags
+streamlit-folium
+streamlit-pandas-profiling
+streamlit-elements
